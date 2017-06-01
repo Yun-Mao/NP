@@ -1,0 +1,29 @@
+﻿  main.cpp
+main.cpp(132): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+main.cpp(133): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+main.cpp(130): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\string.h(335): note: 参见“strncpy”的声明
+main.cpp(173): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+main.cpp(174): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+main.cpp(230): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+main.cpp(249): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+main.cpp(252): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+main.cpp(267): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+main.cpp(284): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+main.cpp(286): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+main.cpp(171): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\string.h(335): note: 参见“strncpy”的声明
+main.cpp(232): warning C4101: “k”: 未引用的局部变量
+    正在创建库 D:\大一年度项目\NP\NP\x64\Release\NP.lib 和对象 D:\大一年度项目\NP\NP\x64\Release\NP.exp
+  正在生成代码
+  40 of 310 functions (12.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  NP.vcxproj -> D:\大一年度项目\NP\NP\x64\Release\NP.exe

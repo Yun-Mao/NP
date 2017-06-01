@@ -1,0 +1,24 @@
+﻿  main.cpp
+d:\大一年度项目\np\np\np\main.cpp(130): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(335): note: 参见“strncpy”的声明
+d:\大一年度项目\np\np\np\main.cpp(132): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\大一年度项目\np\np\np\main.cpp(133): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\大一年度项目\np\np\np\main.cpp(230): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\大一年度项目\np\np\np\main.cpp(249): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\大一年度项目\np\np\np\main.cpp(284): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\大一年度项目\np\np\np\main.cpp(286): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\大一年度项目\np\np\np\main.cpp(171): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(335): note: 参见“strncpy”的声明
+d:\大一年度项目\np\np\np\main.cpp(173): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\大一年度项目\np\np\np\main.cpp(174): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\大一年度项目\np\np\np\main.cpp(252): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\大一年度项目\np\np\np\main.cpp(267): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\大一年度项目\np\np\np\main.cpp(232): warning C4101: “k”: 未引用的局部变量
+  NP.vcxproj -> D:\大一年度项目\NP\NP\x64\Debug\NP.exe
+  NP.vcxproj -> D:\大一年度项目\NP\NP\x64\Debug\NP.pdb (Partial PDB)
